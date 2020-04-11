@@ -1,2 +1,7 @@
-/node_modules
-/build
+/Recomendador/bin
+/Recomendador/obj
+/Recomendador/.vs
+/WindowsFormsApp1/bin
+/WindowsFormsApp1/obj
+/WindowsFormsApp1/.vs
+
