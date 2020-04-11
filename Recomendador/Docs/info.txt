@@ -1,0 +1,7 @@
+﻿https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/movie-recommendation
+
+In machine learning, the columns that are used to make a prediction are called Features, and the column with the returned prediction is called the Label.
+You want to predict movie ratings, so the rating column is the Label. The other three columns, userId, movieId, and timestamp are all Features used to predict the Label.
+It's up to you to decide which Features are used to predict the Label. You can also use methods like permutation feature importance to help with selecting the best Features.
+
+https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/save-load-machine-learning-models-ml-net
